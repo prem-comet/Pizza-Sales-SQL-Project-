@@ -3,10 +3,10 @@
 
 📌 Project Overview
 This project provides an in-depth analysis of pizza sales data using SQL. The dataset is queried to extract key insights such as:
-✔️ Total sales revenue
-✔️ Most ordered pizzas
-✔️ Customer preferences
-✔️ Order trends over time
+ ✔️ Total sales revenue
+ ✔️ Most ordered pizzas
+ ✔️ Customer preferences
+ ✔️ Order trends over time
 
 The presentation (PDF) includes SQL queries along with their outputs, making it easy to understand the data-driven insights.
 
@@ -33,7 +33,8 @@ The presentation (PDF) includes SQL queries along with their outputs, making it 
  2. Review the SQL queries and outputs
  3. Understand sales trends and insights
 
-    
+ 
+ For any queries related to this Project contact us on following details: 
 📞 Contact
 👤 Prem Kushwah
 📧 premkushwah7987788758@gmail.com
